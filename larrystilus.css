@@ -1,0 +1,34 @@
+body{
+    background-image: url("lestwinsbackground.jpg");
+}
+#h1{
+    text-align: center;
+    color: whitesmoke;
+}
+p{
+    text-align: center;
+    color: whitesmoke;
+}
+#img{
+    padding-left: 19.5%;
+}
+#h21{
+    text-align: left;
+    padding-top: 1%;
+    color: whitesmoke;
+}
+#h22{
+    text-align: right;
+    color: whitesmoke;
+}
+#laupic{
+    float: right;
+}
+#MIBpic{
+    padding-left: 17%;
+}
+#p{
+    text-align: center;
+    padding-top: 35%;
+    color: whitesmoke;
+}

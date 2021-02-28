@@ -1,0 +1,15 @@
+body{
+background-image: url("versenybackground.jpg");
+border-image-width: auto;
+}
+h1{
+    text-align: center;
+    color: whitesmoke;
+}
+ul{
+    position: relative;
+    text-align: center;
+    color: white;
+    padding-top: 20.33%;
+    text-size-adjust: 30px;
+}
